@@ -1,3 +1,6 @@
+//Muhammad Farrell Alfarro
+//2050
+//PBO A
 using System;
 
 namespace TugasKado
